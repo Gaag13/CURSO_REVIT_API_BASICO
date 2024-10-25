@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CURSO_REVIT_API_BASICO\\CURSOREVITAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{787EF505-850E-46AF-A4E5-E93CC2256E97}|CURSOREVITAPI.csproj|c:\\users\\user\\source\\repos\\curso_revit_api_basico\\cursorevitapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{787EF505-850E-46AF-A4E5-E93CC2256E97}|CURSOREVITAPI.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{787EF505-850E-46AF-A4E5-E93CC2256E97}|CURSOREVITAPI.csproj|c:\\users\\user\\source\\repos\\curso_revit_api_basico\\cursorevitapi\\cmdexternalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787EF505-850E-46AF-A4E5-E93CC2256E97}|CURSOREVITAPI.csproj|solutionrelative:cmdexternalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,12 +91,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CURSO_REVIT_API_BASICO\\CURSOREVITAPI\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\CURSO_REVIT_API_BASICO\\CURSOREVITAPI\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "CmdExternalCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CURSO_REVIT_API_BASICO\\CURSOREVITAPI\\CmdExternalCommand.cs",
+              "RelativeDocumentMoniker": "CmdExternalCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CURSO_REVIT_API_BASICO\\CURSOREVITAPI\\CmdExternalCommand.cs",
+              "RelativeToolTip": "CmdExternalCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wCYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T12:39:36.916Z",
               "EditorCaption": ""

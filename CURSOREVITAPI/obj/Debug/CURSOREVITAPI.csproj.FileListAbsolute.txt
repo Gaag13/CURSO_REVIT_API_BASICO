@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\CURSO_REVIT_API_BASICO\CURSOREVITAPI\bin\Debug\CURSOREVITAPI.dll
+C:\Users\user\source\repos\CURSO_REVIT_API_BASICO\CURSOREVITAPI\bin\Debug\CURSOREVITAPI.pdb
+C:\Users\user\source\repos\CURSO_REVIT_API_BASICO\CURSOREVITAPI\obj\Debug\CURSOREVITAPI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CURSO_REVIT_API_BASICO\CURSOREVITAPI\obj\Debug\CURSOREVITAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CURSO_REVIT_API_BASICO\CURSOREVITAPI\obj\Debug\CURSOREVITAPI.dll
+C:\Users\user\source\repos\CURSO_REVIT_API_BASICO\CURSOREVITAPI\obj\Debug\CURSOREVITAPI.pdb
