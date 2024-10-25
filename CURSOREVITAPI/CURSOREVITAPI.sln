@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CURSOREVITAPI", "CURSOREVITAPI.csproj", "{787EF505-850E-46AF-A4E5-E93CC2256E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787EF505-850E-46AF-A4E5-E93CC2256E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787EF505-850E-46AF-A4E5-E93CC2256E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787EF505-850E-46AF-A4E5-E93CC2256E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787EF505-850E-46AF-A4E5-E93CC2256E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557938C8-E680-4AB9-A9E2-6F931663D392}
+	EndGlobalSection
+EndGlobal
